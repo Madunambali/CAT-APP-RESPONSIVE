@@ -16,7 +16,7 @@ border: 1px solid #1D3557;
   display: flex;
 }
 }
-@media(min-with: 960px){
+@media(max-with: 650px){
   .cats{
   display: flex;
 }
